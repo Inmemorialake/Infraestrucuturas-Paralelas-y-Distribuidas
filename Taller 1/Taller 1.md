@@ -259,3 +259,7 @@ if __name__ == "__main__":
     print(f"ThreadPoolExecutor: {tiempo_hilos:.4f} s")
     print(f"ProcessPoolExecutor:{tiempo_procesos:.4f} s")
 ```
+
+### Repositorio donde se está alojando el codigo
+
+En este [repositorio de Github](https://github.com/Inmemorialake/Infraestrucuturas-Paralelas-y-Distribuidas) se está alojando el codigo de este taller y por ahora de todo el curso de infraestructuras paralelas y distribuidas.
