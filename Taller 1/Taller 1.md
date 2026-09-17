@@ -1,6 +1,6 @@
 # Taller 1: Algoritmos Paralelos
 
-*Infraestructuras Paralelas y Distribuidas (750023C) — 2026-2*
+> Infraestructuras Paralelas y Distribuidas (750023C) — 2026-2
 
 **Profesor:** Manuel Alejandro Pastrana, PhD
 **Estudiante:** Andrés Gerardo González Rosero
